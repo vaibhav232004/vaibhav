@@ -1,2 +1,8 @@
+HEAD
 this is 5th program
 bye!
+
+this is 6th program!
+bye
+
+ d440cc8 (my 3rd rebase)
